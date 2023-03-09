@@ -2,7 +2,7 @@
 Hello :hand:, my name is Justin Waltrip.
 
 <img src="/images/cognistx-logo.png" style="float: right; margin: 20px" width="30%">
-I am currently studying computer science and applied mathematics at Johns Hopkins University in Baltimore, Maryland.  I also work as a Data Scientist for artificial intelligence company <a href="https://www.cognistx.com" target="_blank">Cognistx</a> based in Pittsburgh, Pennsylvania.<br><br>
+I currently work as a Data Scientist for artificial intelligence company <a href="https://www.cognistx.com" target="_blank">Cognistx</a> based in Pittsburgh, Pennsylvania.  I also study computer science and applied mathematics at Johns Hopkins University in Baltimore, Maryland.<br><br>
 
 <img src="/images/knowledge-graph.png" style="float: left; margin: 20px" width="20%">
 I am interested in natural language processing, including question answering using knowledge graphs and large language models, and geometric machine learning, specifically using graph neural networks.<br><br>
