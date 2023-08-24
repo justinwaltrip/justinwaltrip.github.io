@@ -10,5 +10,5 @@ tags = [
 categories = [
     "Work",
 ]
-externalLink = "https://www.cognistx.com/cx-blog/cognistxs-moleculeai-platform-revolutionizes-drug-discovery-for-psychedelic-compounds"
+externalLink = "https://web.archive.org/web/20230402063507/https://www.cognistx.com/cx-blog/cognistxs-moleculeai-platform-revolutionizes-drug-discovery-for-psychedelic-compounds"
 +++

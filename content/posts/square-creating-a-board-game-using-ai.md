@@ -10,5 +10,5 @@ tags = [
 categories = [
     "Work",
 ]
-externalLink = "https://www.cognistx.com/cx-blog/square-creating-a-board-game-using-ai"
+externalLink = "https://web.archive.org/web/20230601015205/https://www.cognistx.com/cx-blog/square-creating-a-board-game-using-ai"
 +++
