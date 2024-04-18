@@ -1,16 +1,10 @@
 
-Hello :hand:, my name is Justin Waltrip.
 
-<img src="/images/cognistx-logo.png" style="float: right; margin: 20px" width="30%">
-I currently work as a Data Scientist for artificial intelligence company <a href="https://www.cognistx.com" target="_blank">Cognistx</a> based in Pittsburgh, Pennsylvania.  
-I am also involved with research in computer science and applied mathematics at Johns Hopkins University in Baltimore, Maryland.
+I'm <img align="right" src="/images/jhu.png" alt="Johns Hopkins University" width="200" style="margin: 20px"> Justin Waltrip, a data scientist and software engineer with a passion for leveraging machine learning and artificial intelligence to address real-world challenges. My academic journey began at Johns Hopkins University, where I pursued dual majors in computer science and applied mathematics, laying a solid foundation for my career in technology.
 
-My interests include natural language processing, specifically question answering using knowledge graphs and large language models, and geometric machine learning with graph neural networks.
+<img align="left" src="/images/cognistx.png" alt="Cognistx" width="200" style="margin: 20px; margin-top: 40px">
+My professional path led me to Cognistx, an AI consulting startup, where I spent three years crafting bespoke AI solutions for over 10 clients across a variety of industries including legal, healthcare, and retail. My role also allowed me to dive into the world of digital media as a co-host for the AI-Driven podcast, exploring the forefront of enterprise AI innovations.<br>
 
-Beyond data science, I also have experience with cloud/software engineering and full-stack web development. 
-I have designed, implemented, deployed, and managed Amazon Web Service (AWS) serverless environments for multiple clients. 
-I also have experience as a product manager, frontend, and backend developer for several interactive web applications and dashboards (although not all at once).
+At Cognistx, I spearheaded the technical development of SQUARE, an advanced enterprise question answering system that integrates extractive QA with retrieval augmented generation (RAG). My work involved automating the extraction of critical information from complex documents and designing a robust, multi-tenant serverless AWS architecture to support our solutions. Furthermore, I led the development of an evaluation framework for prompt engineering to enhance our RAG model's effectiveness. Outside of natural language processing, my tenure also included leading the MoleculeAI project, where we utilized graph neural networks to revolutionize the drug discovery process, and a product placement project that used diffusion models to generate realistic looking backgrounds for retail items.
 
-I am comfortable working with many programming languages, including Python, Javascript, Java, and C/C++. 
-For data science, I have experience with PyTorch/PyTorch Geometric, Tensorflow, Ray, Data Version Control (DVC), LightGBM, Weights and Biases, scikit-learn, numpy, huggingface, and pandas. 
-For web development, I have worked with MongoDB, ExpressJS, React, Node, MaterialUI, and Streamlit.
+Beyond my professional endeavors, I'm an advocate for open-source software and continuously explore new technologies. I'm currently developing a local-first recipe management system that I plan to open-source. As a Linux enthusiast, I enjoy experimenting with NixOS among other distributions. When I step away from the keyboard, I find joy in playing ultimate frisbee, backpacking, and waterskiing, embracing the balance between my digital and outdoor worlds.
