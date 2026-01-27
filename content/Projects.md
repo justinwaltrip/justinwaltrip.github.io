@@ -1,13 +1,14 @@
-# SQUARE
+# Squary AI
 
-<img align="right" src="/images/SQUARE.svg" alt="SQUARE" width="150" style="margin: 20px; background: #007eff; padding: 10px">
-As the Technical Lead for <a href="https://www.cognistx.com/square" target="_blank">SQUARE</a>, an Enterprise Question Answering System, I spearheaded the development of a sophisticated question answering system utilizing extractive QA and retrieval augmented generation (RAG) techniques. SQUARE is designed to automate the extraction of information from extensive legal and medical documents using advanced knowledge graphs. My contributions include:
+<img align="right" src="/images/SQUARE.svg" alt="Squary AI" width="150" style="margin: 20px; background: #007eff; padding: 10px">
+As Co-founder & Head of Engineering at <a href="https://www.squary.ai" target="_blank">Squary AI</a>, I lead the development of a focused Legal AI platform that has evolved from SQUARE, an Enterprise Question Answering System. Squary AI helps legal teams process complex documents efficiently using extractive QA and retrieval augmented generation (RAG) techniques. The platform has achieved significant traction:
 
-- Developing a library to automate information extraction, significantly enhancing efficiency and accuracy.
-- Designing, implementing, deploying, and maintaining multi-tenant, serverless AWS environments to ensure scalability and reliability.
-- Creating an evaluation and prompt-tuning framework to optimize the performance of large language models (LLMs), further improving the system's accuracy and user experience.
+- Delivering structured outputs with source-linked answers that integrate into existing legal workflows
+- Built on multi-tenant, serverless AWS architecture ensuring scalability and reliability
+- Implementing evaluation and prompt-tuning frameworks to optimize large language model (LLM) performance
+- Developing automated information extraction using advanced knowledge graphs
 
-SQUARE is an ongoing project that continues to evolve and adapt to meet the needs of our enterprise clients.
+Squary AI is an active project (May 2021 - Present) with consistent engagement and adoption across legal teams, demonstrating real product-market fit in the legal AI space.
 
 # MoleculeAI
 
