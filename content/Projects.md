@@ -1,14 +1,19 @@
 # Squary AI
 
 <img align="right" src="/images/SQUARE.svg" alt="Squary AI" width="150" style="margin: 20px; background: #007eff; padding: 10px">
-As Co-founder & Head of Engineering at <a href="https://www.squary.ai" target="_blank">Squary AI</a>, I lead the development of a focused Legal AI platform that has evolved from SQUARE, an Enterprise Question Answering System. Squary AI helps legal teams process complex documents efficiently using extractive QA and retrieval augmented generation (RAG) techniques. The platform has achieved significant traction:
+As Co-founder & Head of Engineering at <a href="https://www.squary.ai" target="_blank">Squary AI</a>, I lead the development of a workflow-driven AI platform for legal and regulated industries. Evolved from SQUARE, an Enterprise Question Answering System, Squary AI now serves leading law firms including Quatrini Law Group, Aldridge Pite, and firms across plaintiff, defense, and personal injury practices. The platform has achieved remarkable measurable impact:
 
-- Delivering structured outputs with source-linked answers that integrate into existing legal workflows
-- Built on multi-tenant, serverless AWS architecture ensuring scalability and reliability
-- Implementing evaluation and prompt-tuning frameworks to optimize large language model (LLM) performance
-- Developing automated information extraction using advanced knowledge graphs
+- **70% reduction in document review time** through AI-powered analysis that extracts key clauses and highlights inconsistencies
+- **80% decrease in case oversight risks** by centralizing pleadings, discovery, medical records, and evidence in one secure workspace
+- **50% faster strategy pivots** with parallel task execution and attorney-ready outputs (timelines, issue lists, draft language)
+- Processed over **500,000 pages across 1,000+ workflows** with source-linked answers
+- Built on **multi-tenant, serverless AWS architecture** with VPC isolation, encryption, and two-factor authentication
+- **Seamless integrations** with SharePoint, Filevine, Google Drive, and other document management systems
+- **Cross-format AI search** across text, audio, video, spreadsheets, and complex case materials
+- Automated color-coded highlighting of payment terms, termination clauses, and liability limitations
+- Real-time collaboration with secure, role-based access and full audit trails
 
-Squary AI is an active project (May 2021 - Present) with consistent engagement and adoption across legal teams, demonstrating real product-market fit in the legal AI space.
+Squary AI is an active project (May 2021 - Present) with strong product-market fit, serving law firms and legal teams across litigation, investigation, and compliance workflows.
 
 # MoleculeAI
 
