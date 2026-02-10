@@ -13,7 +13,9 @@ author = "Justin Waltrip"
 description = "Justin Waltrip's personal website"
 keywords = "developer,personal"
 info = ["Co-founder & Head of Engineering at Squary AI"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/justin.png"
+favicon_32 = "images/favicon-32x32.png"
+favicon_16 = "images/favicon-16x16.png"
 dateFormat = "January 2, 2006"
 since = 2022
 # Git Commit in Footer, uncomment the line below to enable it

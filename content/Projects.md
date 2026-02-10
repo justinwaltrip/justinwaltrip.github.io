@@ -1,6 +1,6 @@
 # Squary AI
 
-<img align="right" src="/images/SQUARE.svg" alt="Squary AI" width="150" style="margin: 20px; background: #007eff; padding: 10px">
+<img align="right" src="/images/squary-ai.png" alt="Squary AI" width="150" style="margin: 20px; padding: 10px">
 As Co-founder & Head of Engineering at <a href="https://www.squary.ai" target="_blank">Squary AI</a>, I lead the development of a workflow-driven AI platform for legal and regulated industries. Evolved from SQUARE, an Enterprise Question Answering System, Squary AI now serves leading law firms including Quatrini Law Group, Aldridge Pite, and firms across plaintiff, defense, and personal injury practices. The platform has achieved remarkable measurable impact:
 
 - **70% reduction in document review time** through AI-powered analysis that extracts key clauses and highlights inconsistencies
