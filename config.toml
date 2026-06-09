@@ -10,8 +10,8 @@ enableEmoji = true
 
 [params]
 author = "Justin Waltrip"
-description = "Justin Waltrip's personal website"
-keywords = "developer,personal"
+description = "Legal technology founder and AI engineer"
+keywords = "legaltech,ai,legal-ai,founder,law-and-technology"
 info = ["Co-founder & Head of Engineering at Squary AI"]
 avatarURL = "images/justin.png"
 favicon_32 = "images/favicon-32x32.png"

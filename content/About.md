@@ -1,8 +1,8 @@
 ## About Me
 
-I'm Justin Waltrip, Co-founder & Head of Engineering at Squary AI, with a passion for leveraging machine learning and artificial intelligence to address real-world challenges.
+I'm Justin Waltrip, Co-founder & Head of Engineering at **Squary AI**, an AI platform purpose-built for legal and regulated industries. I work at the intersection of artificial intelligence and the law, building technology that helps legal teams work faster, more accurately, and with greater confidence.
 
-My academic journey began at Johns Hopkins University, where I pursued dual majors in Computer Science and Applied Mathematics and Statistics, with a focus on Machine Learning, laying a solid foundation for my career in technology.
+I hold dual degrees in Computer Science and Applied Mathematics & Statistics from **Johns Hopkins University**, with a focus on Machine Learning.
 
 ---
 
@@ -12,7 +12,7 @@ My academic journey began at Johns Hopkins University, where I pursued dual majo
   <img src="/images/squary-ai.png" alt="Squary AI" width="120">
 </p>
 
-I currently lead engineering at **Squary AI**, a workflow-driven AI platform for legal and regulated industries. Trusted by leading law firms including Quatrini Law Group, Aldridge Pite, and other plaintiff and defense firms, Squary AI unifies case documents (pleadings, discovery, medical records, transcripts, spreadsheets, and audio) into one secure platform.
+I lead engineering at **Squary AI**, a workflow-driven AI platform for legal and regulated industries. Trusted by leading law firms including Quatrini Law Group, Aldridge Pite, and firms across plaintiff, defense, and personal injury practices, Squary AI unifies case documents (pleadings, discovery, medical records, transcripts, spreadsheets, and audio) into a single secure platform.
 
 ### Key Achievements
 
@@ -29,15 +29,15 @@ Our platform features parallel task execution, attorney-ready outputs, and seaml
 
 ### Squary AI / Cognistx (May 2021 - Present)
 
-I joined **Cognistx**, an AI consulting startup, in May 2021 as a Data Scientist, where I crafted bespoke AI solutions for over 10 clients across industries including legal, healthcare, and retail. My role also allowed me to dive into the world of digital media as a co-host for the **AI-Driven podcast**, exploring the forefront of enterprise AI innovations.
+I joined **Cognistx**, an AI consulting startup, in May 2021 as a Data Scientist. There, I delivered custom AI solutions for over 10 clients across legal, healthcare, and retail. I also co-hosted the **AI-Driven podcast**, where I discussed enterprise AI innovations with industry leaders.
 
-In **January 2025**, I became Co-founder & Head of Engineering as SQUARE evolved into **Squary AI**, now a product-focused company serving legal and regulated industries.
+In **January 2025**, I became Co-founder & Head of Engineering as SQUARE evolved into **Squary AI**, a product-focused company serving legal and regulated industries. Squary AI was recently accepted into the <a href="https://www.innovatepgh.com/news/AnvilThirdCohort" target="_blank">Anvil Founder Program</a> in Pittsburgh, a selective accelerator for early-stage technology startups.
 
 ### Technical Leadership
 
-I lead product architecture, ingestion & indexing pipelines powering Squary AI, overseeing model optimization, scaling, and team delivery for enterprise-grade reliability & security.
+I lead product architecture for Squary AI, managing ingestion and indexing pipelines, model optimization, and scaling for enterprise-grade reliability and security.
 
-I spearheaded the technical development of **SQUARE** (now evolved into Squary AI), an advanced enterprise question answering system that integrates extractive QA with retrieval augmented generation (RAG).
+I architected the technical foundation of **SQUARE** (now evolved into Squary AI), an enterprise question answering system that combines extractive QA with retrieval augmented generation (RAG).
 
 Key contributions included:
 
@@ -62,6 +62,4 @@ Before Squary AI/Cognistx, I co-founded **Nexxt Labs LLC** (April 2017 - April 2
 
 ## Beyond Work
 
-Beyond my professional endeavors, I'm an advocate for **open-source software** and continuously explore new technologies. I'm currently developing a local-first recipe management system that I plan to open-source.
-
-As a **Linux enthusiast**, I enjoy experimenting with NixOS among other distributions. When I step away from the keyboard, I find joy in playing ultimate frisbee, backpacking, and waterskiing, embracing the balance between my digital and outdoor worlds.
+I am a strong advocate for **open-source software** and actively contribute to the developer community. Outside of technology, I stay active outdoors with ultimate frisbee, backpacking, and waterskiing.

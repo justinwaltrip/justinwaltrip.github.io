@@ -4,10 +4,11 @@ date = "YYYY-MM-DD"
 title = "camel case title"
 slug = "camel-case-title"
 tags = [
-    "data science",
+    "ai",
+    "legaltech",
 ]
 categories = [
-    "Work",
+    "AI & Law",
 ]
 externalLink = "external-link"
 +++
