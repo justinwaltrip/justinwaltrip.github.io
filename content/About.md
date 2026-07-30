@@ -19,7 +19,7 @@ I lead engineering at **Squary AI**, a workflow-driven AI platform for legal and
 - **70%** reduction in document review time
 - **80%** minimization of case oversight risks
 - **50%** acceleration of strategy pivots
-- **500,000+** pages processed across **1,000+** workflows
+- **Millions** of pages processed across **thousands** of workflows
 
 Our platform features parallel task execution, attorney-ready outputs, and seamless integrations with SharePoint, Filevine, and Google Drive, delivering source-linked answers that integrate directly into legal workflows.
 
@@ -27,11 +27,13 @@ Our platform features parallel task execution, attorney-ready outputs, and seaml
 
 ## Career Journey
 
-### Squary AI / Cognistx (May 2021 - Present)
+### Cognistx (May 2021 - Dec 2024)
 
 I joined **Cognistx**, an AI consulting startup, in May 2021 as a Data Scientist. There, I delivered custom AI solutions for over 10 clients across legal, healthcare, and retail. I also co-hosted the **AI-Driven podcast**, where I discussed enterprise AI innovations with industry leaders.
 
-In **January 2025**, I became Co-founder & Head of Engineering as SQUARE evolved into **Squary AI**, a product-focused company serving legal and regulated industries. Squary AI was recently accepted into the <a href="https://www.innovatepgh.com/news/AnvilThirdCohort" target="_blank">Anvil Founder Program</a> in Pittsburgh, a selective accelerator for early-stage technology startups.
+### Squary AI (Jan 2025 - Present)
+
+In **January 2025**, I became Co-founder & Head of Engineering as SQUARE evolved into **Squary AI**, a product-focused company serving legal and regulated industries. Squary AI was accepted into the <a href="https://www.innovatepgh.com/news/AnvilThirdCohort" target="_blank">Anvil Founder Program</a> in Pittsburgh, a selective accelerator for early-stage technology startups.
 
 ### Technical Leadership
 
@@ -54,12 +56,17 @@ Outside of natural language processing, my work also included:
 - **MoleculeAI**: Utilized graph neural networks to revolutionize the drug discovery process
 - **Product Placement**: Used diffusion models to generate realistic backgrounds for retail items
 
-### Previous Experience
+---
 
-Before Squary AI/Cognistx, I co-founded **Nexxt Labs LLC** (April 2017 - April 2020), where I gained early entrepreneurial experience in technology ventures.
+## Recognition & Talks
+
+- **Outstanding New Supplier Award** — Duquesne Light Company (Apr 2026)
+- **Anvil Founder Coaching Program** — Cohort 3, selected for Pittsburgh-based founder program (Jan 2026)
+- **Guest, The Dark Arts of the Team Optimization Podcast** — Holonic (Apr 2026)
+- **Building an Enterprise Question Answering System** — Carnegie Mellon, Information Retrieval (Dec 2023)
 
 ---
 
 ## Beyond Work
 
-I am a strong advocate for **open-source software** and actively contribute to the developer community. Outside of technology, I stay active outdoors with ultimate frisbee, backpacking, and waterskiing.
+I am a strong advocate for **open-source software** and actively contribute to the developer community. I run NixOS on my personal machines and enjoy experimenting with reproducible development environments. Outside of technology, I stay active outdoors with ultimate frisbee, backpacking, and waterskiing.
