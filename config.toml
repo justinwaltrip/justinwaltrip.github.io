@@ -13,7 +13,7 @@ author = "Justin Waltrip"
 description = "Legal technology founder and AI engineer"
 keywords = "legaltech,ai,legal-ai,founder,law-and-technology"
 info = ["Co-founder & Head of Engineering at Squary AI"]
-avatarURL = "images/justin.png"
+avatarURL = "images/justin.jpg"
 favicon_32 = "images/favicon-32x32.png"
 favicon_16 = "images/favicon-16x16.png"
 dateFormat = "January 2, 2006"
@@ -35,7 +35,7 @@ maxSeeAlsoItems = 5
 # Custom CSS
 customCSS = []
 # Custom SCSS, file path is relative to Hugo"s asset folder (default: {your project root}/assets)
-customSCSS = []
+customSCSS = ["scss/custom.scss"]
 # Custom JS
 customJS = []
 
