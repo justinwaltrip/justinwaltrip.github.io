@@ -1,0 +1,9 @@
+{{ define "content" }}
+<section>
+  <h1>{{ .Title }}</h1>
+  {{ .Content }}
+  <ul class="post-list">
+    {{ range .Pages }}{{ partial "post-item.html" . }}{{ end }}
+  </ul>
+</section>
+{{ end }}

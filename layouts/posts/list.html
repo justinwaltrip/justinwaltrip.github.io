@@ -1,28 +1,18 @@
-{{ define "title" }}
-  {{ title (i18n (lower .Title)) | default .Title }} · {{ .Site.Title }}
-{{ end }}
 {{ define "content" }}
-  {{- $archived := where .Pages "Params.categories" "intersect" (slice "Archive") -}}
-  {{- $current := complement $archived .Pages -}}
-  <section class="container list">
-    <h1 class="title">
-      <a class="title-link" href="{{ .Permalink | safeURL }}">
-        {{ title (i18n (lower .Title)) | default .Title }}
-      </a>
-    </h1>
-    {{ .Content }}
-    <ul>
-      {{- range (.Paginate $current).Pages -}}
-        {{- .Render "li" -}}
-      {{- end -}}
-    </ul>
-
-    {{ partial "pagination.html" . }}
-
-    {{- with $archived }}
-      <p>
-        <a href="{{ "categories/archive/" | relURL }}">Archive: earlier talks, webinars, and AI-Driven podcast episodes ({{ len . }}) →</a>
-      </p>
-    {{- end }}
-  </section>
+{{- $archived := where .Pages "Params.categories" "intersect" (slice "Archive") -}}
+{{- $current := complement $archived .Pages -}}
+<section>
+  <h1>Writing</h1>
+  {{ .Content }}
+  <ul class="post-list">
+    {{ range $current }}{{ partial "post-item.html" . }}{{ end }}
+  </ul>
+  {{ with $archived }}
+  <h2 class="section-label">Archive</h2>
+  <p class="muted">Earlier talks, webinars, and AI-Driven podcast episodes.</p>
+  <ul class="post-list">
+    {{ range . }}{{ partial "post-item.html" . }}{{ end }}
+  </ul>
+  {{ end }}
+</section>
 {{ end }}

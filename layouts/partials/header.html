@@ -1,0 +1,9 @@
+<header class="site-header">
+  <a class="wordmark" href="{{ "/" | relURL }}">{{ .Site.Title }}</a>
+  <nav>
+    {{ $current := . }}
+    {{ range .Site.Menus.main }}
+      <a href="{{ .URL | relLangURL }}"{{ if or ($current.IsMenuCurrent "main" .) (eq (strings.TrimSuffix "/" $current.RelPermalink) (strings.TrimSuffix "/" (.URL | relLangURL))) }} aria-current="page"{{ end }}>{{ .Name }}</a>
+    {{ end }}
+  </nav>
+</header>

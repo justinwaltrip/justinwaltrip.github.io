@@ -1,0 +1,7 @@
+<footer class="site-footer">
+  <span>© {{ now.Year }} {{ .Site.Params.author }}</span>
+  <span class="links">
+    <a href="mailto:{{ .Site.Params.email }}">Email</a>
+    {{ range sort .Site.Params.social "weight" }}<a href="{{ .url }}" rel="me">{{ .name }}</a>{{ end }}
+  </span>
+</footer>

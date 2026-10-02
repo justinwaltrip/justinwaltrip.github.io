@@ -1,0 +1,24 @@
+{{ define "content" }}
+<section class="intro">
+  <img class="avatar" src="{{ .Site.Params.avatarURL | relURL }}" alt="{{ .Site.Params.author }}" width="72" height="72">
+  <h1>{{ .Site.Params.author }}</h1>
+  <p class="role">{{ index .Site.Params.info 0 }}</p>
+  <div class="prose">{{ .Content }}</div>
+  <p class="cta">
+    <a class="button" href="mailto:{{ .Site.Params.email }}">Get in touch</a>
+    <a class="button ghost" href="{{ "about/" | relURL }}">About me</a>
+  </p>
+</section>
+
+{{ $posts := where .Site.RegularPages "Section" "posts" }}
+{{ $writing := complement (where $posts "Params.categories" "intersect" (slice "Archive")) $posts }}
+{{ with $writing }}
+<section>
+  <h2 class="section-label">Writing</h2>
+  <ul class="post-list">
+    {{ range first 5 . }}{{ partial "post-item.html" . }}{{ end }}
+  </ul>
+  <p><a class="more" href="{{ "posts/" | relURL }}">All writing →</a></p>
+</section>
+{{ end }}
+{{ end }}

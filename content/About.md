@@ -1,16 +1,12 @@
-## About
++++
+title = "About"
++++
 
 I'm Justin Waltrip, co-founder of **<a href="https://www.squary.ai" target="_blank">Squary AI</a>**, legal AI that learns how a law firm produces its work and delivers that expertise consistently on every new matter. Squary helps mid-market firms produce firm-approved summaries, chronologies, and demand letters, with source-linked citations for every claim.
 
 Based in Pittsburgh, I hold dual degrees in Computer Science and Applied Mathematics & Statistics from **Johns Hopkins University**, with a focus on machine learning.
 
----
-
 ## Squary AI
-
-<p align="center">
-  <img src="/images/squary-ai.png" alt="Squary AI" width="120">
-</p>
 
 **Co-founder** · Jan 2025 – Present
 
@@ -28,8 +24,6 @@ I lead engineering and product architecture, including:
 - Multi-tenant, security-first infrastructure with VPC isolation, encryption, and full audit trails
 - Integrations with SharePoint, Filevine, Google Drive, OneDrive, Dropbox, and Amazon S3
 
----
-
 ## Cognistx
 
 **Data Scientist** · May 2021 – Dec 2024
@@ -41,8 +35,6 @@ At Cognistx, an AI consulting firm, I delivered custom AI solutions for more tha
 - Led development of graph neural network models for **MoleculeAI**, an AI drug discovery platform
 - Co-hosted the **AI-Driven** podcast on enterprise AI
 
----
-
 ## Recognition & Speaking
 
 - **<a href="https://technical.ly/workforce/reallist-innovators-2026-pittsburgh/" target="_blank">Technical.ly RealLIST Innovators 2026</a>**, one of 15 builders recognized in Pittsburgh's tech scene (Aug 2026)
@@ -50,8 +42,6 @@ At Cognistx, an AI consulting firm, I delivered custom AI solutions for more tha
 - **<a href="https://technical.ly/entrepreneurship/anvil-coaching-scales-next-wave-of-startups-in-pittsburgh/" target="_blank">Anvil Founder Coaching Program</a>**, Cohort 3 graduate (2026)
 - **Guest, The Dark Arts of the Team Optimization Podcast**, Holonic (Apr 2026): building reliable AI systems in production
 - **<a href="https://youtu.be/qx80Z0ZkFO8" target="_blank">Guest Lecture: Building an Enterprise Question Answering System</a>**, Carnegie Mellon University, Information Retrieval (Dec 2023)
-
----
 
 ## In the News
 
@@ -61,8 +51,6 @@ At Cognistx, an AI consulting firm, I delivered custom AI solutions for more tha
 - <a href="https://technical.ly/entrepreneurship/squary-ai-legal-tech-automation/" target="_blank">AI isn't replacing your lawyer, but it is completely rewriting how they bill for time</a>, Technical.ly (Jul 2026)
 - <a href="https://technical.ly/entrepreneurship/anvil-coaching-scales-next-wave-of-startups-in-pittsburgh/" target="_blank">Meet the early-stage startups scaling up with Pittsburgh's free founder coaching program</a>, Technical.ly (Jun 2026)
 - <a href="https://smb.thecharlottegazette.com/article/SQUARY-AI-Legal-Launches-to-Bring-Reliable-Transparent-AI-to-Every-Law-Firm?storyId=690135846a81cb0002d45fba" target="_blank">SQUARY AI Legal Launches to Bring Reliable, Transparent AI to Every Law Firm</a>, The Charlotte Gazette (Oct 2025)
-
----
 
 ## Outside Work
 

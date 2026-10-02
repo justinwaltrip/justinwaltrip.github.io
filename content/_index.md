@@ -1,0 +1,1 @@
+I build legal AI that learns how a law firm produces its work and delivers that expertise consistently on every new matter. Before <a href="https://www.squary.ai" target="_blank">Squary</a>, I built custom AI for 10+ clients across legal, healthcare, and retail at Cognistx. Based in Pittsburgh.

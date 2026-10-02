@@ -1,0 +1,8 @@
+{{ define "content" }}
+<article class="prose">
+  <h1>{{ .Title }}</h1>
+  <p class="meta"><time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time></p>
+  {{ .Content }}
+  {{ with .Params.externalLink }}<p><a href="{{ . }}" target="_blank" rel="noopener">Read on the original site →</a></p>{{ end }}
+</article>
+{{ end }}

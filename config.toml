@@ -13,6 +13,7 @@ author = "Justin Waltrip"
 description = "Co-founder of Squary AI, legal AI for mid-market law firms"
 keywords = "legaltech,ai,legal-ai,founder,law-and-technology"
 info = ["Co-founder at Squary AI"]
+email = "justin@squary.ai"
 avatarURL = "images/justin.jpg"
 favicon_32 = "images/favicon-32x32.png"
 favicon_16 = "images/favicon-16x16.png"
@@ -35,7 +36,7 @@ maxSeeAlsoItems = 5
 # Custom CSS
 customCSS = []
 # Custom SCSS, file path is relative to Hugo"s asset folder (default: {your project root}/assets)
-customSCSS = ["scss/custom.scss"]
+customSCSS = []
 # Custom JS
 customJS = []
 
@@ -104,7 +105,7 @@ tag = "tags"
 author = "authors"
 
 [[params.social]]
-name = "Github"
+name = "GitHub"
 icon = "fa fa-2x fa-github"
 weight = 1
 url = "https://github.com/justinwaltrip"
@@ -124,7 +125,7 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-  name = "Blog"
+  name = "Writing"
   weight = 2
   url  = "posts/"
 
