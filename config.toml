@@ -10,9 +10,9 @@ enableEmoji = true
 
 [params]
 author = "Justin Waltrip"
-description = "Legal technology founder and AI engineer"
+description = "Co-founder of Squary AI, legal AI for mid-market law firms"
 keywords = "legaltech,ai,legal-ai,founder,law-and-technology"
-info = ["Co-founder & Head of Engineering at Squary AI"]
+info = ["Co-founder at Squary AI"]
 avatarURL = "images/justin.jpg"
 favicon_32 = "images/favicon-32x32.png"
 favicon_16 = "images/favicon-16x16.png"
@@ -134,7 +134,7 @@ weight = 3
 url = "projects/"
 
 [[languages.en.menu.main]]
-name = "Contact me"
+name = "Contact"
 weight = 4
 url = "contact/"
 

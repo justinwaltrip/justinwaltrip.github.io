@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://podcasters.spotify.com/pod/show/ai-driven/episodes/SQUARE-Searching-Your-Audio-and-Video-Files-e2cja86"
 +++

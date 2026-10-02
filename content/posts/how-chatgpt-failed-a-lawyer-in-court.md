@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://podcasters.spotify.com/pod/show/ai-driven/episodes/Why-ChatGPT-Failed-to-Help-a-Lawyer-in-Court-e26alpl"
 +++

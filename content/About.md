@@ -1,72 +1,69 @@
-## About Me
+## About
 
-I'm Justin Waltrip, Co-founder & Head of Engineering at **Squary AI**, an AI platform purpose-built for legal and regulated industries. I work at the intersection of artificial intelligence and the law, building technology that helps legal teams work faster, more accurately, and with greater confidence.
+I'm Justin Waltrip, co-founder of **<a href="https://www.squary.ai" target="_blank">Squary AI</a>**, legal AI that learns how a law firm produces its work and delivers that expertise consistently on every new matter. Squary helps mid-market firms produce firm-approved summaries, chronologies, and demand letters, with source-linked citations for every claim.
 
-I hold dual degrees in Computer Science and Applied Mathematics & Statistics from **Johns Hopkins University**, with a focus on Machine Learning.
+Based in Pittsburgh, I hold dual degrees in Computer Science and Applied Mathematics & Statistics from **Johns Hopkins University**, with a focus on machine learning.
 
 ---
 
-## Current Role: Squary AI
+## Squary AI
 
 <p align="center">
   <img src="/images/squary-ai.png" alt="Squary AI" width="120">
 </p>
 
-I lead engineering at **Squary AI**, a workflow-driven AI platform for legal and regulated industries. Trusted by leading law firms including Quatrini Law Group, Aldridge Pite, and firms across plaintiff, defense, and personal injury practices, Squary AI unifies case documents (pleadings, discovery, medical records, transcripts, spreadsheets, and audio) into a single secure platform.
+**Co-founder** · Jan 2025 – Present
 
-### Key Achievements
+Squary is the expertise layer between a firm's case management system and the underlying foundation models. It captures how a firm's best attorneys frame issues and structure analysis, then applies that to every new matter, so work product stays consistent as models, documents, and staff change. Firms like Quatrini Law Group use Squary across personal injury, workers' compensation, employment, and immigration practices.
 
-- **70%** reduction in document review time
-- **80%** minimization of case oversight risks
-- **50%** acceleration of strategy pivots
-- **Millions** of pages processed across **thousands** of workflows
+- **Millions** of pages processed for mid-market law firms
+- Document review up to **70%** faster
+- **80%+** attorney adoption at a 40-attorney firm
+- **10x** data volume at lower cost after consolidating search onto MongoDB Atlas (<a href="https://www.mongodb.com/solutions/customer-case-studies/squary-ai" target="_blank">MongoDB customer story</a>)
 
-Our platform features parallel task execution, attorney-ready outputs, and seamless integrations with SharePoint, Filevine, and Google Drive, delivering source-linked answers that integrate directly into legal workflows.
+I lead engineering and product architecture, including:
 
----
-
-## Career Journey
-
-### Cognistx (May 2021 - Dec 2024)
-
-I joined **Cognistx**, an AI consulting startup, in May 2021 as a Data Scientist. There, I delivered custom AI solutions for over 10 clients across legal, healthcare, and retail. I also co-hosted the **AI-Driven podcast**, where I discussed enterprise AI innovations with industry leaders.
-
-### Squary AI (Jan 2025 - Present)
-
-In **January 2025**, I became Co-founder & Head of Engineering as SQUARE evolved into **Squary AI**, a product-focused company serving legal and regulated industries. Squary AI was accepted into the <a href="https://www.innovatepgh.com/news/AnvilThirdCohort" target="_blank">Anvil Founder Program</a> in Pittsburgh, a selective accelerator for early-stage technology startups.
-
-### Technical Leadership
-
-I lead product architecture for Squary AI, managing ingestion and indexing pipelines, model optimization, and scaling for enterprise-grade reliability and security.
-
-I architected the technical foundation of **SQUARE** (now evolved into Squary AI), an enterprise question answering system that combines extractive QA with retrieval augmented generation (RAG).
-
-Key contributions included:
-
-- Automating extraction of critical information from complex documents
-- Designing a robust, multi-tenant serverless AWS architecture
-- Leading development of an evaluation framework for prompt engineering to enhance RAG model effectiveness
-- Building cross-format AI search across text, audio, video, spreadsheets, and complex case materials
-- Implementing seamless integrations with SharePoint, Filevine, Google Drive, and other document management systems
-
-### Additional Projects
-
-Outside of natural language processing, my work also included:
-
-- **MoleculeAI**: Utilized graph neural networks to revolutionize the drug discovery process
-- **Product Placement**: Used diffusion models to generate realistic backgrounds for retail items
+- A custom LLM orchestration framework that breaks large jobs into tracked steps, producing structured outputs at scale (e.g., 5,000+ row compliance matrices and due diligence classifications)
+- Document ingestion, indexing, and hybrid (keyword + vector) retrieval with page-level citations
+- Multi-tenant, security-first infrastructure with VPC isolation, encryption, and full audit trails
+- Integrations with SharePoint, Filevine, Google Drive, OneDrive, Dropbox, and Amazon S3
 
 ---
 
-## Recognition & Talks
+## Cognistx
 
-- **Outstanding New Supplier Award** — Duquesne Light Company (Apr 2026)
-- **Anvil Founder Coaching Program** — Cohort 3, selected for Pittsburgh-based founder program (Jan 2026)
-- **Guest, The Dark Arts of the Team Optimization Podcast** — Holonic (Apr 2026)
-- **Building an Enterprise Question Answering System** — Carnegie Mellon, Information Retrieval (Dec 2023)
+**Data Scientist** · May 2021 – Dec 2024
+
+At Cognistx, an AI consulting firm, I delivered custom AI solutions for more than 10 clients across legal, healthcare, and retail.
+
+- Architected **SQUARE**, an enterprise question answering system combining extractive QA with retrieval augmented generation (RAG), which later became Squary AI
+- Designed a multi-tenant serverless AWS architecture and an evaluation framework for prompt engineering
+- Led development of graph neural network models for **MoleculeAI**, an AI drug discovery platform
+- Co-hosted the **AI-Driven** podcast on enterprise AI
 
 ---
 
-## Beyond Work
+## Recognition & Speaking
 
-I am a strong advocate for **open-source software** and actively contribute to the developer community. I run NixOS on my personal machines and enjoy experimenting with reproducible development environments. Outside of technology, I stay active outdoors with ultimate frisbee, backpacking, and waterskiing.
+- **<a href="https://technical.ly/workforce/reallist-innovators-2026-pittsburgh/" target="_blank">Technical.ly RealLIST Innovators 2026</a>**, one of 15 builders recognized in Pittsburgh's tech scene (Aug 2026)
+- **Outstanding New Supplier Award**, Duquesne Light Company (Apr 2026)
+- **<a href="https://technical.ly/entrepreneurship/anvil-coaching-scales-next-wave-of-startups-in-pittsburgh/" target="_blank">Anvil Founder Coaching Program</a>**, Cohort 3 graduate (2026)
+- **Guest, The Dark Arts of the Team Optimization Podcast**, Holonic (Apr 2026): building reliable AI systems in production
+- **<a href="https://youtu.be/qx80Z0ZkFO8" target="_blank">Guest Lecture: Building an Enterprise Question Answering System</a>**, Carnegie Mellon University, Information Retrieval (Dec 2023)
+
+---
+
+## In the News
+
+- <a href="https://www.mongodb.com/solutions/customer-case-studies/squary-ai" target="_blank">Squary AI Slashes Legal Review Times with Atlas</a>, MongoDB (Sep 2026)
+- <a href="https://technical.ly/workforce/reallist-innovators-2026-pittsburgh/" target="_blank">RealLIST Innovators 2026: 15 builders behind Pittsburgh's tech scene</a>, Technical.ly (Aug 2026)
+- <a href="https://www.metzlewis.com/news/john-w-lewis-ii-has-joined-the-board-of-directors-of-squary-ai/" target="_blank">John W. Lewis II Has Joined the Board of Directors of Squary AI</a>, Metz Lewis (Aug 2026)
+- <a href="https://technical.ly/entrepreneurship/squary-ai-legal-tech-automation/" target="_blank">AI isn't replacing your lawyer, but it is completely rewriting how they bill for time</a>, Technical.ly (Jul 2026)
+- <a href="https://technical.ly/entrepreneurship/anvil-coaching-scales-next-wave-of-startups-in-pittsburgh/" target="_blank">Meet the early-stage startups scaling up with Pittsburgh's free founder coaching program</a>, Technical.ly (Jun 2026)
+- <a href="https://smb.thecharlottegazette.com/article/SQUARY-AI-Legal-Launches-to-Bring-Reliable-Transparent-AI-to-Every-Law-Firm?storyId=690135846a81cb0002d45fba" target="_blank">SQUARY AI Legal Launches to Bring Reliable, Transparent AI to Every Law Firm</a>, The Charlotte Gazette (Oct 2025)
+
+---
+
+## Outside Work
+
+I contribute to open-source software and care a lot about reproducible development environments. Away from the keyboard, I play ultimate frisbee, backpack, and waterski.

@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://podcasters.spotify.com/pod/show/ai-driven/episodes/Ensuring-Safe--Reliable-AI-in-Business-e2a3o1v"
 +++

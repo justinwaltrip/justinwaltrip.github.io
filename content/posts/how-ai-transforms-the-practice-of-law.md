@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://podcasters.spotify.com/pod/show/ai-driven/episodes/How-AI-Transforms-the-Practice-of-Law-e22pjor"
 +++

@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://podcasters.spotify.com/pod/show/ai-driven/episodes/How-the-1-10-100-Data-Quality-Rule-Works-e2b22ho"
 +++

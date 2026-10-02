@@ -8,7 +8,7 @@ tags = [
     "information extraction",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://web.archive.org/web/20230601015205/https://www.cognistx.com/cx-blog/square-creating-a-board-game-using-ai"
 +++

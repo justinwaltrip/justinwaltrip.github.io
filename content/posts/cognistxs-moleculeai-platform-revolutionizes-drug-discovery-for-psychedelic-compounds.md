@@ -8,7 +8,7 @@ tags = [
     "molecular property prediction",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://web.archive.org/web/20230402063507/https://www.cognistx.com/cx-blog/cognistxs-moleculeai-platform-revolutionizes-drug-discovery-for-psychedelic-compounds"
 +++

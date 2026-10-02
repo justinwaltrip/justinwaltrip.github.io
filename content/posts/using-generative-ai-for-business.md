@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://spotifyanchor-web.app.link/e/ozQmKyrPMAb"
 +++

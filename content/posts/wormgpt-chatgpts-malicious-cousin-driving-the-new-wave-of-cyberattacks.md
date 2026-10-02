@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://podcasters.spotify.com/pod/show/ai-driven/episodes/WormGPT-ChatGPTs-malicious-cousin-driving-the-new-wave-of-cyberattacks-e28bt4r"
 +++

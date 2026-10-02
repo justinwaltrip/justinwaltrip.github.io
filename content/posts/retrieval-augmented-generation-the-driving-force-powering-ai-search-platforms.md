@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://podcasters.spotify.com/pod/show/ai-driven/episodes/Retrieval-Augmented-Generation--the-Driving-Force-Powering-AI-Search-Platforms-e2e7ua1"
 +++

@@ -7,7 +7,7 @@ tags = [
     "data science",
 ]
 categories = [
-    "Work",
+    "Archive",
 ]
 externalLink = "https://www.youtube.com/watch?v=HsR4APjUXk8"
 +++
