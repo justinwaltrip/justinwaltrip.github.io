@@ -54,4 +54,4 @@ At Cognistx, an AI consulting firm, I delivered custom AI solutions for more tha
 
 ## Outside Work
 
-I contribute to open-source software and care a lot about reproducible development environments. Away from the keyboard, I play ultimate frisbee, backpack, and waterski.
+Outside of work, I play ultimate frisbee and have recently taken up bouldering and pickleball. I also enjoy cooking and baking at home, and when time allows, backpacking, camping, waterskiing, and snowskiing.
